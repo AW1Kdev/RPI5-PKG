@@ -1,0 +1,988 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-09-08 07:50+0000\n"
+"Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
+"Language-Team: Ukrainian <https://hosted.weblate.org/projects/openwrt/"
+"luciapplicationstravelmate/uk/>\n"
+"Language: uk\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 5.14-dev\n"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:76
+msgid "-- AP Selection --"
+msgstr "— вибір AP —"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:305
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:312
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:388
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:423
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:433
+msgid "-- default --"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:265
+msgid "AP QR-Codes..."
+msgstr "AP QR-Коди..."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:1032
+msgid "Add Uplink %q"
+msgstr "Додати uplink %q"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:867
+msgid "Add Uplink..."
+msgstr "Додати вихідну лінію..."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:291
+msgid "Additional Settings"
+msgstr "Додаткові налаштування"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:392
+msgid ""
+"Additional trigger delay in seconds before travelmate processing begins."
+msgstr ""
+"Додаткова затримка запуску в секундах перед початком обробки Travelmate."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:455
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:989
+msgid "Anonymous Identity"
+msgstr "Анонімна ідентифікація"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:436
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:972
+msgid "Authentication"
+msgstr "Автентифікація"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:550
+msgid "Auto Added Open Uplink"
+msgstr "Автоматично додано Open Uplink"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:622
+msgid "Auto Login Script"
+msgstr "Скрипт автоматичного входу"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:354
+msgid "AutoAdd Open Uplinks"
+msgstr "AutoAdd Відкрийте Uplinks"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:605
+msgid ""
+"Automatically (re-)enable the uplink after <em>n</em> minutes, e.g. after "
+"failed login attempts.<br /> The default of '0' disables this feature."
+msgstr ""
+"Автоматично (повторно) увімкнути вихідну лінію через <em>n</em> хвилин, "
+"наприклад після невдалих спроб входу.<br /> Значення за умовчанням '0' "
+"вимикає цю функцію."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:354
+msgid ""
+"Automatically add open uplinks like hotel captive portals to your wireless "
+"config."
+msgstr ""
+"Автоматично додавайте відкриті канали висхідного зв’язку, як-от готельні "
+"адаптивні портали, до конфігурації бездротового зв’язку."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:587
+msgid ""
+"Automatically disable the uplink after <em>n</em> minutes, e.g. for timed "
+"connections.<br /> The default of '0' disables this feature."
+msgstr ""
+"Автоматично вимкнути вихідну лінію через <em>n</em> хвилин, наприклад для "
+"тимчасових з’єднань.<br /> Значення за замовчуванням «0» вимикає цю функцію."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:682
+msgid ""
+"Automatically handle VPN connections.<br /> Please note: This feature "
+"requires the additional configuration of <em>Wireguard</em> or <em>OpenVPN</"
+"em>."
+msgstr ""
+"Автоматично обробляти з’єднання VPN.<br /> Зверніть увагу: ця функція "
+"вимагає додаткового налаштування <em>Wireguard</em> або <em>OpenVPN</em>."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:325
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:517
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:762
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:926
+msgid "BSSID"
+msgstr "BSSID"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:438
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:975
+msgid "CHAP"
+msgstr "CHAP"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:316
+msgid "Captive Portal Detection"
+msgstr "Виявлення порталу захоплення"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:417
+msgid "Captive Portal URL"
+msgstr "URL-адреса адаптивного порталу"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:760
+msgid "Channel"
+msgstr "Канал"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:316
+msgid ""
+"Check the internet availability, handle captive portal redirections and keep "
+"the uplink connection 'alive'."
+msgstr ""
+"Перевіряйте доступність Інтернету, обробляйте перенаправлення приєднаних "
+"порталів і підтримуйте з’єднання висхідної лінії зв’язку."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:148
+msgid ""
+"Configuration of the travelmate package to enable travel router "
+"functionality. For further information <a href=\"https://github.com/openwrt/"
+"packages/blob/master/net/travelmate/files/README.md\" target=\"_blank\" "
+"rel=\"noreferrer noopener\" >check the online documentation</a>. <br /> "
+"<b><em>Please note:</em></b> On first start please call the 'Interface "
+"Wizard' once, to make the necessary network- and firewall settings."
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:539
+msgid "Connection End"
+msgstr "Кінець підключення"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:604
+msgid "Connection End Expiry"
+msgstr "Закінчення терміну дії підключення"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:397
+msgid "Connection Limit"
+msgstr "Ліміт підключення"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:528
+msgid "Connection Start"
+msgstr "Початок підключення"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:586
+msgid "Connection Start Expiry"
+msgstr "Термін дії початку підключення"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:318
+msgid "Device"
+msgstr "Пристрій"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:899
+msgid "Device Name"
+msgstr "Назва пристрою"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:464
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:998
+msgid "Disabled"
+msgstr "Відключено"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:47
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:131
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:776
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:1039
+msgid "Dismiss"
+msgstr "Закрити"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:281
+msgid "Drag to reorder"
+msgstr "Перетягніть, щоб змінити порядок"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:445
+msgid "E-Mail Hook"
+msgstr "Гачок електронної пошти"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:463
+msgid "E-Mail Profile"
+msgstr "E-Mail профіль"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:448
+msgid "E-Mail Receiver Address"
+msgstr "E-Mail адреса отримувача"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:453
+msgid "E-Mail Sender Address"
+msgstr "E-Mail адреса відправника"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:292
+msgid "E-Mail Settings"
+msgstr "Налаштування електронної пошти"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:458
+msgid "E-Mail Topic"
+msgstr "Тема"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:442
+msgid ""
+"E-Mail notifications require the separate setup of the <em>msmtp</em> "
+"package."
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:441
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:978
+msgid "EAP-GTC"
+msgstr "EAP-GTC"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:442
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:979
+msgid "EAP-MD5"
+msgstr "EAP-MD5"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:443
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:980
+msgid "EAP-MSCHAPV2"
+msgstr "EAP-MSCHAPV2"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:427
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:964
+msgid "EAP-Method"
+msgstr "Метод EAP"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:444
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:981
+msgid "EAP-TLS"
+msgstr "EAP-TLS"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:290
+msgid "Edit"
+msgstr "Редагувати"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:288
+msgid "Edit this network"
+msgstr "Редагувати цю мережу"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:297
+msgid "Enable the travelmate service."
+msgstr "Увімкніть службу Travelmate."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:373
+msgid "Enable verbose debug logging in case of any processing errors."
+msgstr "Увімкнути детальний звіт на випадок будь-яких помилок обробки."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:294
+msgid "Enable/Disable this network"
+msgstr "Увімкнути/вимкнути цю мережу"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:297
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:306
+msgid "Enabled"
+msgstr "Увімкнено"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:329
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:763
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:932
+msgid "Encryption"
+msgstr "Шифрування"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:250
+msgid "Ext. Hooks"
+msgstr "доп. Гачки"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:623
+msgid ""
+"External script reference which will be called for automated captive portal "
+"logins."
+msgstr ""
+"Зовнішнє посилання на сценарій, який буде викликано для автоматизованого "
+"входу на портал авторизації."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:432
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:969
+msgid "FAST"
+msgstr "ШВИДКИЙ"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:364
+msgid "Filter AutoAdd SSIDs"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:290
+msgid "General Settings"
+msgstr "Загальні налаштування"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:350
+msgid "Generate a random unicast MAC address for each uplink connection."
+msgstr ""
+"Згенеруйте випадкову одноадресну MAC-адресу для кожного висхідного "
+"підключення."
+
+#: applications/luci-app-travelmate/root/usr/share/rpcd/acl.d/luci-app-travelmate.json:3
+msgid "Grant access to LuCI app travelmate"
+msgstr "Надайте доступ до програми LuCI travelmate"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:384
+msgid "High Priority"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:383
+msgid "Highest Priority"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:407
+msgid ""
+"How long should travelmate wait for a successful wlan uplink connection."
+msgstr ""
+"Як довго Travelmate має чекати успішного з’єднання по висхідній лінії "
+"зв’язку WLAN."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:451
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:986
+msgid "Identity"
+msgstr "Ідентифікація EAP"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:918
+msgid "Ignore BSSID"
+msgstr "Ігнорувати BSSID"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:224
+msgid "Information"
+msgstr "Інформація"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:903
+msgid "Interface Name"
+msgstr "Назва інтерфейсу"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:407
+msgid "Interface Timeout"
+msgstr "Час очікування інтерфейсу"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:24
+msgid "Interface Wizard"
+msgstr "Майстер інтерфейсу"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:279
+msgid "Interface Wizard..."
+msgstr "Майстер інтерфейсу..."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:376
+msgid "LAN Interface"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:254
+msgid "Last Run"
+msgstr "Останній запуск"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:387
+msgid "Least Priority"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:386
+msgid "Less Priority"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:358
+msgid "Limit AutoAdd"
+msgstr "Обмеження автододавання"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:324
+msgid "Limit VPN processing"
+msgstr "Обмежити обробку VPN"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:324
+msgid "Limit VPN processing to certain interfaces."
+msgstr "Обмежте обробку VPN певними інтерфейсами."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:358
+msgid ""
+"Limit the maximum number of automatically added open uplinks. To disable "
+"this limitation set it to '0'."
+msgstr ""
+"Обмежте максимальну кількість автоматично доданих відкритих посилань. Щоб "
+"вимкнути це обмеження, встановіть для нього значення «0»."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:364
+msgid ""
+"List of SSID patterns for filtering/skipping specific open uplinks, e.g. "
+"'Chromecast*'"
+msgstr ""
+
+#: applications/luci-app-travelmate/root/usr/share/luci/menu.d/luci-app-travelmate.json:35
+msgid "Log View"
+msgstr "Перегляд журналу"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:567
+msgid "MAC Address"
+msgstr "MAC-адреса"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:439
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:976
+msgid "MSCHAP"
+msgstr "MSCHAP"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:440
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:977
+msgid "MSCHAPV2"
+msgstr "MSCHAPV2"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:459
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:993
+msgid "Mgmt. Frame Protection"
+msgstr "Mgmt. Захист рами"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:402
+msgid ""
+"Minimum signal quality threshold as percent for conditional uplink (dis-) "
+"connections."
+msgstr ""
+"Мінімальний поріг якості сигналу у відсотках для умовних висхідних "
+"(розривних) з’єднань."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:344
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:947
+msgid "Mixed WPA/WPA2 802.1X (CCMP)"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:345
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:948
+msgid "Mixed WPA/WPA2 802.1X (TKIP)"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:336
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:939
+msgid "Mixed WPA/WPA2 PSK (CCMP)"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:337
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:940
+msgid "Mixed WPA/WPA2 PSK (TKIP)"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:339
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:942
+msgid "Mixed WPA2/WPA3 802.1X"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:331
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:934
+msgid "Mixed WPA2/WPA3 PSK (CCMP)"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:341
+msgid "Net Error Check"
+msgstr "Перевірка мережевих помилок"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/logtemplate.js:23
+msgid "No %s related logs yet!"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:385
+msgid "Normal Priority"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:296
+msgid "On/Off"
+msgstr "Увімкнення/вимкнення"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:347
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:950
+msgid "Open"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:465
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:999
+msgid "Optional"
+msgstr "Необ'язково"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:412
+msgid "Overall Timeout"
+msgstr "Загальний тайм-аут"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:412
+msgid "Overall retry timeout in seconds."
+msgstr "Загальний час очікування повторної спроби в секундах."
+
+#: applications/luci-app-travelmate/root/usr/share/luci/menu.d/luci-app-travelmate.json:19
+msgid "Overview"
+msgstr "Огляд"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:264
+msgid ""
+"Overview of all configured uplinks for travelmate. You can edit, remove or "
+"prioritize existing uplinks by drag &#38; drop and scan for new ones.<br /> "
+"The currently used uplink connection is emphasized in <span "
+"style=\"color:rgb(51, 119, 204);font-weight:bold\">blue</span>, an encrypted "
+"VPN uplink connection is emphasized in <span style=\"color:rgb(68, 170, "
+"68);font-weight:bold\">green</span>."
+msgstr ""
+"Огляд усіх налаштованих висхідних каналів для Travelmate. Ви можете "
+"редагувати, видаляти або пріоритезувати існуючі висхідні посилання, "
+"перетягуючи &#38; скиньте та відшукуйте нові.<br /> Використовуване "
+"з’єднання висхідної лінії виділено <span style=\"color:rgb(51, 119, "
+"204);font-weight:bold\">синім</span>, зашифрованим Вихідне підключення VPN "
+"виділено <span style=\"color:rgb(68, 170, 68);font-weight:bold\">зеленим</"
+"span>."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:437
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:974
+msgid "PAP"
+msgstr "PAP"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:431
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:968
+msgid "PEAP"
+msgstr "PEAP"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:414
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:421
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:953
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:959
+msgid "Password"
+msgstr "Пароль"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:497
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:1026
+msgid "Password of Private Key"
+msgstr "Пароль закритого ключа"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:481
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:1013
+msgid "Path to CA-Certificate"
+msgstr "Шлях до сертифіката CA"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:487
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:1018
+msgid "Path to Client-Certificate"
+msgstr "Шлях до сертифіката клієнта"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:492
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:1022
+msgid "Path to Private Key"
+msgstr "Шлях до закритого ключа"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:346
+msgid "ProActive Uplink Switch"
+msgstr "Комутатор ProActive Uplink"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:346
+msgid ""
+"Proactively scan and switch to a higher prioritized uplink, despite of an "
+"already existing connection."
+msgstr ""
+"Завчасно скануйте та перемикайтеся на висхідну лінію з вищим пріоритетом, "
+"незважаючи на вже існуюче з’єднання."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:463
+msgid "Profile used by 'msmtp' for travelmate notification E-Mails."
+msgstr ""
+"Профіль, який використовується 'msmtp' для сповіщень Travelmate електронною "
+"поштою."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:116
+msgid "QR-Code Overview"
+msgstr "Огляд QR-коду"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:300
+msgid "Radio Selection"
+msgstr "Вибір радіо"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:350
+msgid "Randomize MAC Addresses"
+msgstr "Рандомізуйте MAC-адреси"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:448
+msgid "Receiver address for travelmate notification E-Mails."
+msgstr "Адреса одержувача електронної пошти сповіщень Travelmate."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:301
+msgid "Remove"
+msgstr "Видалити"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:299
+msgid "Remove this network"
+msgstr "Видаліть цю мережу"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:117
+msgid ""
+"Render the QR-Code of the selected Access Point to transfer the WLAN "
+"credentials to your mobile devices comfortably."
+msgstr ""
+"Відтворіть QR-код вибраної точки доступу, щоб комфортно передати облікові "
+"дані WLAN на ваші мобільні пристрої."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:780
+msgid "Repeat Scan"
+msgstr "Повторіть сканування"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:466
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:1000
+msgid "Required"
+msgstr "Обов'язковий"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:272
+msgid "Restart Interface"
+msgstr "Перезапустити інтерфейс"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:300
+msgid ""
+"Restrict travelmate to a single radio or change the overall scanning order."
+msgstr ""
+"Обмежте Travelmate одним радіо або змініть загальний порядок сканування."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:397
+msgid "Retry limit to connect to an uplink."
+msgstr "Ліміт повторних спроб підключитися до висхідної лінії зв’язку."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:246
+msgid "Run Flags"
+msgstr "Прапорці запуску"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:321
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:506
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:761
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:912
+msgid "SSID"
+msgstr "SSID"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:908
+msgid "SSID (hidden)"
+msgstr "SSID (приховано)"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:64
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:1043
+msgid "Save"
+msgstr "Зберегти"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:745
+msgid "Scan on"
+msgstr "Сканувати"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:661
+msgid "Script Arguments"
+msgstr "Аргументи сценарію"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:376
+msgid "Select the logical LAN network interface, default is 'lan'."
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:309
+msgid ""
+"Send active probe requests or passively listen for beacon frames that are "
+"regularly sent by access points."
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:453
+msgid "Sender address for travelmate notification E-Mails."
+msgstr "Адреса відправника електронної пошти для сповіщень про подорожуючих."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:445
+msgid "Sends notification E-Mails after every succesful uplink connect."
+msgstr ""
+"Надсилає сповіщення електронною поштою після кожного успішного підключення "
+"до висхідної лінії."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:382
+msgid "Service Priority"
+msgstr "Пріоритет обслуговування"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:288
+msgid "Settings"
+msgstr "Налаштування"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:58
+msgid "Setup failed, the interface already exists!"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:402
+msgid "Signal Quality Threshold"
+msgstr "Поріг якості сигналу"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:662
+msgid ""
+"Space separated list of additional arguments passed to the Auto Login "
+"Script, i.e. username and password"
+msgstr ""
+"Розділений пробілами список додаткових аргументів, які передаються до "
+"сценарію автоматичного входу, тобто ім’я користувача та пароль"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:330
+msgid "Standard VPN Service"
+msgstr "Стандартна служба VPN"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:336
+msgid "Standard VPN interface"
+msgstr "Стандартний інтерфейс VPN"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:336
+msgid ""
+"Standard VPN interface which will be automatically added to new STA profiles."
+msgstr ""
+"Стандартний інтерфейс VPN, який автоматично додаватиметься до нових профілів "
+"STA."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:330
+msgid ""
+"Standard VPN service which will be automatically added to new STA profiles."
+msgstr ""
+"Стандартна служба VPN, яка автоматично додаватиметься до нових профілів STA."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:767
+msgid "Starting wireless scan on '"
+msgstr "Початок бездротового сканування на \""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:230
+msgid "Station ID"
+msgstr "ID станції"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:238
+msgid "Station Interfaces"
+msgstr "Інтерфейси станцій"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:234
+msgid "Station MAC"
+msgstr "Станція MAC"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:242
+msgid "Station Subnet"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:226
+msgid "Status / Version"
+msgstr "Статус / Версія"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:759
+msgid "Strength"
+msgstr "Сила"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:429
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:966
+msgid "TLS"
+msgstr "TLS"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:430
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:967
+msgid "TTLS"
+msgstr "TTLS"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:35
+msgid "The firewall zone name"
+msgstr "Назва зони брандмауера"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:40
+msgid "The interface metric"
+msgstr "Метрика інтерфейсу"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:714
+msgid "The logical vpn network interface like 'wg0'."
+msgstr "Логічний мережевий інтерфейс vpn, наприклад «wg0»."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:417
+msgid ""
+"The selected URL will be used for connectivity- and captive portal checks."
+msgstr ""
+"Вибрана URL-адреса використовуватиметься для перевірок з’єднання та "
+"адаптивного порталу."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:382
+msgid "The selected priority will be used for travelmate processes."
+msgstr "Вибраний пріоритет буде використано для процесів Travelmate."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:427
+msgid ""
+"The selected user agent will be used for connectivity- and captive portal "
+"checks."
+msgstr ""
+"Вибраний агент користувача використовуватиметься для перевірки з’єднання та "
+"перевірки авторизованого порталу."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/logtemplate.js:30
+msgid "The syslog output, pre-filtered for messages related to: %s"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:30
+msgid "The uplink interface name"
+msgstr "Ім'я інтерфейсу висхідної лінії зв'язку"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:551
+msgid ""
+"This option is selected by default if this uplink was added automatically "
+"and counts as 'Open Uplink'."
+msgstr ""
+"Цей параметр вибрано за замовчуванням, якщо це висхідне посилання було "
+"додано автоматично та вважається «Відкритим висхідним каналом»."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:25
+msgid ""
+"To use Travelmate, you have to set up an uplink interface once. This wizard "
+"creates an IPv4- and an IPv6 alias network interface with all required "
+"network- and firewall settings."
+msgstr ""
+"Щоб використовувати Travelmate, вам потрібно один раз налаштувати висхідний "
+"інтерфейс. Цей майстер створює мережевий інтерфейс IPv4- та псевдонім IPv6 "
+"із усіма необхідними налаштуваннями мережі та брандмауера."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:458
+msgid "Topic for travelmate notification E-Mails."
+msgstr "Тема для повідомлень електронної пошти Travelmate."
+
+#: applications/luci-app-travelmate/root/usr/share/luci/menu.d/luci-app-travelmate.json:3
+msgid "Travelmate"
+msgstr "Попутники"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:274
+msgid "Travelmate Settings"
+msgstr "Налаштування Travelmate"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:341
+msgid "Treat missing internet availability as an error."
+msgstr "Вважайте відсутність доступу до Інтернету помилкою."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:392
+msgid "Trigger Delay"
+msgstr "Затримка запуску"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:474
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:1007
+msgid "Use system certificates"
+msgstr "Використовуйте системні сертифікати"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:568
+msgid "Use the specified MAC address for this uplink."
+msgstr "Використовуйте вказану MAC-адресу для цієї висхідної лінії."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:427
+msgid "User Agent"
+msgstr "Агент користувача"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:682
+msgid "VPN Hook"
+msgstr "Гачок VPN"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:714
+msgid "VPN Interface"
+msgstr "Інтерфейс VPN"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:699
+msgid "VPN Service"
+msgstr "Служба VPN"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:275
+msgid "VPN Settings"
+msgstr "Налаштування VPN"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:320
+msgid "VPN connections will be managed by travelmate."
+msgstr "Підключенням VPN керуватиме travelmate."
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:320
+msgid "VPN processing"
+msgstr "Обробка VPN"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:474
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:1007
+msgid "Validate server certificate using built-in system CA bundle"
+msgstr ""
+"Перевірте сертифікат сервера за допомогою вбудованого системного набору CA"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:373
+msgid "Verbose Debug Logging"
+msgstr "Докладний журнал відлагодження"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:309
+msgid "WLAN Scan Mode"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:342
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:945
+msgid "WPA 802.1X (CCMP)"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:343
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:946
+msgid "WPA 802.1X (TKIP)"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:334
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:937
+msgid "WPA PSK (CCMP)"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:335
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:938
+msgid "WPA PSK (TKIP)"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:340
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:943
+msgid "WPA2 802.1X (CCMP)"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:341
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:944
+msgid "WPA2 802.1X (TKIP)"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:332
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:935
+msgid "WPA2 PSK (CCMP)"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:333
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:936
+msgid "WPA2 PSK (TKIP)"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:338
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:941
+msgid "WPA3 802.1X"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:346
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:949
+msgid "WPA3 OWE"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:330
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:933
+msgid "WPA3 PSK (SAE)"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:769
+msgid "Wireless Scan"
+msgstr "Бездротове сканування"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:273
+msgid "Wireless Settings"
+msgstr "Бездротові налаштування"
+
+#: applications/luci-app-travelmate/root/usr/share/luci/menu.d/luci-app-travelmate.json:27
+msgid "Wireless Stations"
+msgstr "Бездротові станції"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:310
+msgid "active"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:446
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:983
+msgid "auth=MSCHAPV2"
+msgstr "auth=MSCHAPV2"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:445
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:982
+msgid "auth=PAP"
+msgstr "auth=PAP"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/logtemplate.js:17
+msgid "logread not found on system."
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:311
+msgid "passive"
+msgstr ""
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:303
+msgid "use both radios, normal sort order (radio0 radio1)"
+msgstr ""
+"використовувати обидва радіостанції, нормальний порядок сортування (радіо0 "
+"радіо1)"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:304
+msgid "use both radios, reverse sort order (radio1 radio0)"
+msgstr ""
+"використовувати обидва радіо, зворотний порядок сортування (радіо1 радіо0)"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:301
+msgid "use the first radio only (radio0)"
+msgstr "використовувати лише перше радіо (radio0)"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:302
+msgid "use the second radio only (radio1)"
+msgstr "використовувати лише друге радіо (радіо1)"
