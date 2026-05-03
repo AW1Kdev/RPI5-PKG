@@ -159,7 +159,7 @@ return baseclass.extend({
       _('Local Time'), datestr,
       _('Uptime'), systeminfo.uptime ? '%t'.format(systeminfo.uptime) : null,
       _('CPU usage (%)'), E('span', { id: 'doty_cpu_usage' }, cpuUsage),
-      _('Build Date'), '02 Mei 2026',
+      _('Build Date'), '02 May 2026',
       _('Builded By'), 'Dotycat.com'
     ];
 
